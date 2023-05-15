@@ -1,4 +1,4 @@
-### Hi there :relaxed: :wave:
+### :relaxed: :wave:
 
 ## About me
 <h1 align="center">Hi 👋, I'm S M Aanantha Priya <h1 align="center">
