@@ -3,7 +3,7 @@
 ## About me
 <h1 align="center">Hi 👋, I'm S M Aanantha Priya <h1 align="center">
  
-### :triangular_flag_on_post: Who have feverish in learning Data science [:page_with_curl:doing BS Data Science in IITM with CGPA of 7.3]
+### :triangular_flag_on_post: Who has ambitious in learning Data science [:page_with_curl:doing BS Data Science in IITM with CGPA of 7.3]
  
 ### :triangular_flag_on_post: Working as intern at AiVariant:office:
  
