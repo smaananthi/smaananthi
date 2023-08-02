@@ -3,13 +3,14 @@
 ## About me
 <h1 align="center">Hi 👋, I'm S M Aanantha Priya <h1 align="center">
  
-### :triangular_flag_on_post: Who has ambitious in learning Data science [:page_with_curl:doing BS Data Science in IITM with CGPA of 7.3]
+### :triangular_flag_on_post: Who has ambitious in learning Data science [:page_with_curl: doing BS Data Science in IITM with CGPA of 7.6]
  
-### :triangular_flag_on_post: Working as intern at AiVariant:office:
+### :triangular_flag_on_post: Working as an intern at AiVariant:office:
  
-### :triangular_flag_on_post: Learning to explore **Machine Learning ,Deep Learning , Artificial Intelligent, Python, Data Analytics< MySQL, Excel **
+### :triangular_flag_on_post: Learning to explore **Machine Learning,Deep Learning, Artificial Intelligent, Python, Data Analytics< MySQL, Excel **
                                                                                                                                            
-### 📬:You can reach me on my email id **aananthapriya251096@gmail.com**
+### 📬: You can reach me on my email id **aananthapriya251096@gmail.com**
+### 📬: You can reach me on my LinkedIn **www.linkedin.com/in/aanantha-priya-sm-2b715a279**
 
 ##                                                                                                                                         
 ## `Projects:`
