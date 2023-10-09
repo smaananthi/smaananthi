@@ -16,6 +16,7 @@
 ## `Projects:`
 ### :high_brightness: Cluster of World development measurement ( https://github.com/smaananthi/My-first-project-on-Clustering)
 ### :high_brightness: Resume classification- NLP (https://github.com/smaananthi/NLP_RESUME_CLASSIFICATION)
+### :high_brightness: CO2 Emission(https://github.com/smaananthi/CO2_emission)
                                                                                                                                     
 
 
