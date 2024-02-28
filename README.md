@@ -5,8 +5,6 @@
  
 ### :triangular_flag_on_post: Who has ambitious in learning Data science [:page_with_curl: doing BS Data Science in IITM with CGPA of 7.0]
  
-### :triangular_flag_on_post: Working as an intern at AiVariant:office:
- 
 ### :triangular_flag_on_post: Learning to explore **Machine Learning, Deep Learning, Artificial Intelligent, Python, Data Analytics< MySQL, Excel **
                                                                                                                                            
 ### 📬: You can reach me on my email id **aananthapriya251096@gmail.com**
